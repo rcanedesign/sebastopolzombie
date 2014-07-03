@@ -41,7 +41,7 @@ body
 		margin:1px 0 0 0;
 		padding:0px;
 		float:right;
-		background:url(images/logo.png) no-repeat;
+		background:url('') no-repeat;
 	}
 #header
 	{
